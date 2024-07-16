@@ -1,0 +1,24 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: ;
+}
+.flex {
+    display: flex;
+    justify-content: space-between;
+}
+.flex-blog{
+    display: flex;
+    text-decoration: none;
+    justify-content: space-evenly;
+    gap: 20px;
+}
+.container-1{
+    /* display: flex; */
+    justify-content: center;
+    width: 500px;
+    height: 200px;
+    text-align: center;
+    background-image: url('../Images/Group\ 13\ \(1\)\ \(1\).png');
+}
